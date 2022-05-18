@@ -37,16 +37,16 @@ I've been learning to code for 1.5 years and now I'm pursuing Engineering Third 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/B-Sairam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Sairam&stroke=facc15&background=000000&ring=84cc16&fire=84cc16&currStreakNum=facc15&currStreakLabel=84cc16&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="http://www.github.com/B-Sairam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Sairam&stroke=facc15&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/B-Sairam"><img src="https://activity-graph.herokuapp.com/graph?username=B-Sairam&bg_color=000000&color=facc15&line=0891b2&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/B-Sairam"><img src="https://activity-graph.herokuapp.com/graph?username=B-Sairam&bg_color=0f172a&color=facc15&line=84cc16&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/B-Sairam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Sairam&langs_count=10&title_color=84cc16&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/B-Sairam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Sairam&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/B-Sairam/item-catalog-frontend1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Sairam&repo=item-catalog-frontend1&title_color=84cc16&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/B-Sairam/Movie-Booking-front-end" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Sairam&repo=Movie-Booking-front-end&title_color=84cc16&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/B-Sairam/item-catalog-frontend1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Sairam&repo=item-catalog-frontend1&title_color=ef4444&text_color=facc15&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/B-Sairam/Movie-Booking-front-end" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Sairam&repo=Movie-Booking-front-end&title_color=ef4444&text_color=facc15&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/B-Sairam/tin-front-end" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Sairam&repo=tin-front-end&title_color=84cc16&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/B-Sairam/tin-front-end" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Sairam&repo=tin-front-end&title_color=ef4444&text_color=facc15&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
