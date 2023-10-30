@@ -4,7 +4,7 @@ Hi 👋 My name is SAIRAM
 Full Stack Web Developer
 ------------------------
 
-I've been learning to code for 1.5 years and now I'm pursuing Engineering Third year in ( Information Technology ) . Aiming to leverage proven creative thinking, able to handle multiple tasks and I'm eager to learn skills and updating up-to-date and dependable person who is great at time management.
+Aiming to leverage proven creative thinking, able to handle multiple tasks and I'm eager to learn skills and updating up-to-date and dependable person who is great at time management.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [SAIRAM](http://phenomenal-boba-6fcd04.netlify.app/)
