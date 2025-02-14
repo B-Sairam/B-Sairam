@@ -9,7 +9,7 @@ Aiming to leverage proven creative thinking, able to handle multiple tasks and I
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [SAIRAM](http://phenomenal-boba-6fcd04.netlify.app/)
 * ✉️  You can contact me at [bbsairam77@gmail.com](mailto:bbsairam77@gmail.com)
-* 🚀  I'm currently working on [Item Catalog](http://euphonious-capybara-839acc.netlify.app/)
+* 🚀  I'm currently working on Generative AI projects
 * 🧠  I'm learning Spring Boot and React Native
 
 ### Skills
